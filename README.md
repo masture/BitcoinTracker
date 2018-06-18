@@ -1,12 +1,5 @@
 # BitcoinTicker
-Learn to make iOS Apps with [The App Brewery](https://www.appbrewery.co) 📱 | Project Stub | (Swift 4.0/Xcode 9) - Bitcoin Ticker App
 
-Beginner: Download the starter project files as .zip and extract the files to your desktop.
+This app fetches the bitcoin prices from bitcoinaverage.com.
 
-Pro: Git clone to your Xcode projects folder.
-
-## Finished App
-![Finished App](http://i.giphy.com/l0HlQGzz2MQCKIBI4.gif)
-
-Copyright © The App Brewery
-# BitcoinTracker
+It uses the UIPickerView to select the currency and then fetches the Bitcoin price using Bitcoin Average APIs for the selected currency.
